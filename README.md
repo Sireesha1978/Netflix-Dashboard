@@ -2,7 +2,7 @@
 
 An interactive dashboard built using **Power BI** to visualize and analyze Netflix's content library. This project explores the platform's movie and TV show distribution across countries, genres, ratings, and viewer engagement using real-world data.
 
-![Netflix Dashboard Preview](screenshots/netflix_dashboard.png)
+![Netflix Dashboard Preview](Screenshots.png)
 
 ---
 
